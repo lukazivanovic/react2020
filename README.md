@@ -1,6 +1,6 @@
 # Front end
 
-Ovo je front-end deo aplikacije - Aplikacija za onlajn prodaju tehnicke opreme - back-end deo se nalazi ovde: https://github.com/lukazivanovic/aplikacijanestjs
+Ovo je front-end deo aplikacije - Aplikacija za onlajn prodaju tehnicke opreme - koristeci ReactJS
 
 ## Installation
 
@@ -10,7 +10,7 @@ cd react2020
 yarn
 ```
 
-Pokrenuti back-end aplikaciju.
+Pokrenuti back-end deo koji se nalazi ovde: https://github.com/lukazivanovic/aplikacijanestjs
 
 ## Starting the application
 
